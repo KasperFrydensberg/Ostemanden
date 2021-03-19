@@ -2628,7 +2628,7 @@
 			}
 
 	table tbody tr {
-		border-color: #e5474b;
+		border-color: #010203;
 	}
 
 		table tbody tr:nth-child(2n + 1) {
@@ -2636,19 +2636,19 @@
 		}
 
 	table th {
-		color: #e5474b;
+		color: #010203;
 	}
 
 	table thead {
-		border-bottom-color: #e5474b;
+		border-bottom-color: #010203;
 	}
 
 	table tfoot {
-		border-top-color: #e5474b;
+		border-top-color: #010203;
 	}
 
 	table.alt tbody tr td {
-		border-color: #e5474b;
+		border-color: #010203;
 	}
 
 /* Wrapper */
