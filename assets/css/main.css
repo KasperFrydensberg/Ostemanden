@@ -3783,7 +3783,7 @@
 		#footer input[type="button"],
 		#footer button,
 		#footer .button {
-			background-color: #5a5a5a;
+			background-color: #010203;
 			color: #010203 !important;
 		}
 
@@ -3792,7 +3792,7 @@
 			#footer input[type="button"]:hover,
 			#footer button:hover,
 			#footer .button:hover {
-				background-color: #676767;
+				background-color: #010203;
 			}
 
 			#footer input[type="submit"]:active,
@@ -3800,7 +3800,7 @@
 			#footer input[type="button"]:active,
 			#footer button:active,
 			#footer .button:active {
-				background-color: #4d4d4d;
+				background-color: #010203;
 			}
 
 			#footer input[type="submit"].alt,
@@ -3809,7 +3809,7 @@
 			#footer button.alt,
 			#footer .button.alt {
 				background-color: transparent;
-				box-shadow: inset 0 0 0 2px #fff;
+				box-shadow: inset 0 0 0 2px #010203;
 				color: #010203 !important;
 			}
 
